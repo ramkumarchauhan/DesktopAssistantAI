@@ -1,0 +1,11 @@
+
+pyttsx3==2.90            # Text-to-speech library for voice output
+SpeechRecognition==3.8.1  # Library for speech recognition
+pyaudio==0.2.11          # Required for microphone input (install only if using microphone)
+wikipedia-api==0.5.4     # Python wrapper for Wikipedia API
+pyowm==3.2.0             # Python wrapper for OpenWeatherMap API
+webbrowser               # Python library for opening and controlling web browsers
+requests                 # HTTP library for making requests (used for internet search and weather API)
+
+These all requirements can be installed using the following command-
+pip install -r requirements.txt
